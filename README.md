@@ -21,6 +21,10 @@ Here's why our app is a gamechanger⚡️ :
 
 🛠 Customization Options: Tailor your GeminiAI experience to suit your preferences with customizable settings and personalized features within the app.
 
+https://github.com/AryanShivva/Aryan-s-GeminiAI/assets/124916476/8ca43ab3-c5ea-4703-a6c3-836329424b91
+
+
+
 Are you ready to revolutionize the way you interact with AI? Download my app today and unlock the full potential of GeminiAI right at your fingertips!💡
 
 ✨Experience my APP(GeminiAI with Aryan) by downloading the APK file directly and join the AI revolution today : https://drive.google.com/file/d/1LMkE7NHFc90FzVDxT0zuk9xZu5C6G4Xj/view?usp=sharing
