@@ -11,15 +11,15 @@ GeminiAI isn't limited to text-based interactions:It can also Analyze Images and
 
 Here's why our app is a gamechanger⚡️ : 
 
-🔍 Streamlined Interface: Our app offers a sleek and intuitive interface, allowing users to effortlessly engage with GeminiAI without the hassle of navigating multiple websites.
+* 🔍 Streamlined Interface: Our app offers a sleek and intuitive interface, allowing users to effortlessly engage with GeminiAI without the hassle of navigating multiple websites.
 
-💬 Enhanced Conversations: Experience more fluid and natural interactions with GeminiAI, thanks to our app's optimized interface designed for seamless communication.
+* 💬 Enhanced Conversations: Experience more fluid and natural interactions with GeminiAI, thanks to our app's optimized interface designed for seamless communication.
 
-📸 Image Recognition at Your Fingertips: With just a few taps, users can upload images and receive instant responses from GeminiAI, making information retrieval easier and more efficient than ever before.
+* 📸 Image Recognition at Your Fingertips: With just a few taps, users can upload images and receive instant responses from GeminiAI, making information retrieval easier and more efficient than ever before.
 
-⚡️ Lightning-Fast Performance: Our app leverages the power of GeminiAI's advanced algorithms, ensuring swift and accurate responses to user queries.
+* ⚡️ Lightning-Fast Performance: Our app leverages the power of GeminiAI's advanced algorithms, ensuring swift and accurate responses to user queries.
 
-🛠 Customization Options: Tailor your GeminiAI experience to suit your preferences with customizable settings and personalized features within the app.
+* 🛠 Customization Options: Tailor your GeminiAI experience to suit your preferences with customizable settings and personalized features within the app.
 
 https://github.com/AryanShivva/Aryan-s-GeminiAI/assets/124916476/8ca43ab3-c5ea-4703-a6c3-836329424b91
 
