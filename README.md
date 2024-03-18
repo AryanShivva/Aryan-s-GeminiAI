@@ -1,8 +1,7 @@
 # 🌟 Experience Seamless Conversations with GeminiAI : My New App is Here! 🌟
 
 
-<img width="431" alt="Screenshot 2024-03-19 at 3 26 08 AM" src="https://github.com/AryanShivva/Aryan-s-GeminiAI/assets/124916476/88c5b35b-365b-473d-9e0f-eb1d52aa09d9">
-<img width="419" alt="Screenshot 2024-03-19 at 3 26 48 AM" src="https://github.com/AryanShivva/Aryan-s-GeminiAI/assets/124916476/dcf2a6e7-be00-430b-80ca-4ca497b1a04a">
+<img width="431" alt="Screenshot 2024-03-19 at 3 26 08 AM" src="https://github.com/AryanShivva/Aryan-s-GeminiAI/assets/124916476/88c5b35b-365b-473d-9e0f-eb1d52aa09d9"><img width="419" alt="Screenshot 2024-03-19 at 3 26 48 AM" src="https://github.com/AryanShivva/Aryan-s-GeminiAI/assets/124916476/dcf2a6e7-be00-430b-80ca-4ca497b1a04a">
 <br>
 <br>
 <img width="428" alt="Screenshot 2024-03-19 at 3 27 28 AM" src="https://github.com/AryanShivva/Aryan-s-GeminiAI/assets/124916476/0a75d231-cead-4cd2-b333-c750c5441b11">
